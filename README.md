@@ -7,7 +7,7 @@ Inside HTML and CSS file you will find all changes made to the original starter 
 
 ## Mock-Up
 
-![Screenshot of finished webpage](./Develop/assets/images/mock-up.png )
+![Screenshot of finished webpage](./docs/assets/images/mock-up.png )
 
 --- 
 
@@ -15,3 +15,6 @@ Inside HTML and CSS file you will find all changes made to the original starter 
 
 - Starter Code by: Tec Bootcamp (https://github.com/coding-boot-camp/urban-octo-telegram)
 - Code Refactor by: Daniel Sanchez (https://github.com/Morkendi)
+
+## Links
+- Link to GitHub Pages: https://morkendi.github.io/Challenge-1
